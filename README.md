@@ -1,6 +1,6 @@
 # Transjakarta Passenger Mobility 
 
-As a final project for Data Analysis Skill Accelerator Program at Purwadhika Digital Technology School I analysed and engineered the Transjakarta public transport data using Python. Then visualised trends and passenger mobility insights in a Tableau dashboard
+As a final project for Data Analysis Skill Accelerator Program at Purwadhika Digital Technology School I analysed and engineered the Transjakarta public transport data using Python. Then visualised trends and passenger mobility insights in a [Tableau dashboard](https://public.tableau.com/app/profile/snurjihan/viz/Transjakarta_17116901286380/TransjakartaPassengerMobility)
 
 ## Overview
 The Transjakarta dataset consists of information of individual passengers movement commuting with the public transportation Transjakarta, with routes within Jakarta and trans-Jabodetabek regions throughout April 2023. Details of passenger movements were analysed through travel duration and length, stops name (tap in and tap out), corridor name and time.
